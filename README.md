@@ -1,8 +1,8 @@
 <p align="center">
     <img width="400" height="160" src="#logo">
     <br>
-    <a href="https://github.com/witlab-dev/witlab/releases">
-       <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/witlab-dev/witlab/total?color=yellow&label=Downloads%28Github%29">
+    <a href="https://github.com/WitLaboratory/witlab/releases">
+       <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/WitLaboratory/witlab/total?color=yellow&label=Downloads%28Github%29">
     </a>
     <a href="https://pypi.org/project/witlab/">
         <img alt="PYPI" src="https://static.pepy.tech/personalized-badge/witlab?period=total&units=international_system&left_color=grey&right_color=yellow&left_text=Downloads(PYPI)">
