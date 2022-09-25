@@ -1,0 +1,9 @@
+include requirements.txt
+include witlab/models/aln/aln-precalc/quantities_cascade.h5
+include witlab/utils/pypet_logging.ini
+
+# datasets
+# recursive-include witlab/data *
+
+recursive-include witlab/data/datasets/hcp *
+recursive-include witlab/data/datasets/gw *
