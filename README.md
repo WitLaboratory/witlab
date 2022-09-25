@@ -5,10 +5,6 @@ easy whole-brain neural mass modeling." src="https://github.com/WitLaboratory/wi
 <p align="center">
   <a href="https://github.com/WitLaboratory/witlab/actions">
   	<img alt="Build" src="https://img.shields.io/github/workflow/status/WitLaboratory/witlab/ci"></a>
-  <a href="https://zenodo.org/badge/latestdoi/236208651">
-  	<img alt="DOI" src="https://zenodo.org/badge/236208651.svg"></a>
-  <a href="https://link.springer.com/article/10.1007%2Fs12559-021-09931-9">
-    <img alt="paper" src="https://img.shields.io/badge/DOI-10.1007%2Fs12559--021--09931--9-blue"></a>
   <a href="https://github.com/WitLaboratory/witlab/releases">
   	<img alt="Release" src="https://img.shields.io/github/v/release/WitLaboratory/witlab"></a>
   <br>
